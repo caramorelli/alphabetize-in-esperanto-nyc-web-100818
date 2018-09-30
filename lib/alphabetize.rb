@@ -6,8 +6,3 @@ def alphabetize(arr)
   end 
 end
 
-
-
-alphabetize(["mi amas vin", "bonan matenon", "pacon", "ĉu vi parolas esperanton"])
-alphabetize(["ŝĝĉĥŭĵ", "ŝĝĉĥŭĥ", "ŝĝĉĥŭĉ"])  #["ŝĝĉĥŭĉ", "ŝĝĉĥŭĥ", "ŝĝĉĥŭĵ"]
-
