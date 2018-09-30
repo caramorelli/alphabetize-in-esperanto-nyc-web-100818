@@ -2,6 +2,7 @@ def alphabetize(arr)
 
   esperanto_alpha = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
   arr.sort_by do |str|
+  end 
   
 end
 
